@@ -79,11 +79,11 @@ AI-powered smart automation project developed for SIH.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ojha-sweta&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojha-sweta&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ojha-sweta&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -93,7 +93,7 @@ AI-powered smart automation project developed for SIH.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/ojha-sweta/ojha-sweta/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
